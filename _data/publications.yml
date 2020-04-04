@@ -1,0 +1,26 @@
+
+- title: "Improving the Utility of Knowledge Graph Embeddings with Calibration"
+  authors: "<strong>T. Safavi</strong>, D. Koutra, E. Meij"
+  venue: "arxiv preprint"
+  date: 2020
+  links:
+    - pdf: "https://arxiv.org/pdf/2004.01168.pdf"
+
+- title: "Toward Activity Discovery in the Personal Web"
+  authors: "<strong>T. Safavi</strong>, A. Fourney, R. Sim, M. Juraszek, S. Williams, N. Friend, D. Koutra, P. Bennett"
+  venue: "WSDM"
+  date: "2020"
+  links:
+    - poster: "/assets/pdf/wsdm-20-poster.pdf"
+      slides: "/assets/pdf/wsdm-20-slides.pdf"
+      blog: "https://www.microsoft.com/en-us/research/blog/the-personal-web-connecting-information-for-better-search-and-recommendation/"
+      pdf: "https://gemslab.github.io/papers/safavi-2020-toward.pdf"
+
+- title: "Distribution of Node Embeddings as Multiresolution Features for Graphs"
+  authors: "M. Heimann, <strong>T. Safavi</strong>, D. Koutra"
+  venue: "ICDM"
+  date: "2019"
+  notes: "Best student paper award"
+  links:
+    - pdf: "https://gemslab.github.io/papers/heimann-2019-RGM.pdf"
+

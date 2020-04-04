@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1 id="top">
+  {{ page.title }}
+</h1>
+
+{% if page.image.feature %}
+  <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
+  {% if page.image.caption %}
+  <div class="caption">{{ page.image.caption }}</div>
+  {% endif %}
+{% endif %}
+
+<b>{{ page.date | date_to_long_string }}</b><br>
+
+<span class="post-content">
+{{ content }}
+</a>
+
+
+{% if site.data.settings.disqus.comments %}
+  {% include disqus.html %}
+{% endif %}
