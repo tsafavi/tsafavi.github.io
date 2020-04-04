@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Tara Safavi'
-description:	       'researcher, musician, human'
+description:	       'researcher'
 author:              'Paul Le'
 pub-limit:            3
 

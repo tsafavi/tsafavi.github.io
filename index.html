@@ -17,7 +17,7 @@ Also see <a href="https://scholar.google.com/citations?user=bIWFjekAAAAJ&hl=en" 
 {% for publication in site.data.publications %}
 <p class="pub">
 {% if forloop.index <= site.pub-limit %}
-   {{ publication.title }}<br/> <em>{{ publication.authors }}. {{ publication.venue }}{% if publication.date %}-{{ publication.date }}{% endif %}</em>.{% if publication.notes %}<br/> <span class="red">{{ publication.notes }}</span>{% endif %}<br/>{% for link in publication.links %} [<a href="{{ link.pdf }}" target="_blank">PDF</a>{% if link.slides %} | <a href="{{ link.slides }}" target="_blank">slides</a>{% endif %}{% if link.code %} | <a href="{{ link.code }}" target="_blank">code</a>{% endif %}{% if link.data %} | <a href="{{ link.data }}" target="_blank">data</a>{% endif %}{% if link.poster %} | <a href="{{ link.poster }}" target="_blank">poster</a>{% endif %}{% if link.blog %} | <a href="{{ link.blog }}" target="_blank">blog
+   {{ publication.title }}<br/> <em>{{ publication.authors }}. {{ publication.venue }}{% if publication.date %}-{{ publication.date }}{% endif %}</em>.{% if publication.notes %}<br/> <span class="red">{{ publication.notes }}</span>{% endif %}<br/>{% for link in publication.links %} [<a href="{{ link.pdf }}" target="_blank">PDF</a>{% if link.slides %} | <a href="{{ link.slides }}" target="_blank">slides</a>{% endif %}{% if link.code %} | <a href="{{ link.code }}" target="_blank">code</a>{% endif %}{% if link.data %} | <a href="{{ link.data }}" target="_blank">data</a>{% endif %}{% if link.blog %} | <a href="{{ link.blog }}" target="_blank">blog
   post</a>{% endif %}]{% endfor %}{% endif %}
 </p>
 {% endfor %}
