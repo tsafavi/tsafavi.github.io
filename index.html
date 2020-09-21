@@ -2,27 +2,30 @@
 layout: page
 title: 
 image:
-  feature: portugal-bookstore.jpg
   feature: 3-teaser.jpg
+  feature: portugal-bookstore.jpg
 ---
 <p>
 I'm Tara, a  PhD candidate at the University of Michigan working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a>.
-I'm interested in knowledge graphs, graph-based machine learning, and broader AI+society problems like privacy, bias, and environmental sustainability. 
-My research is currently supported by an NSF Graduate Research Fellowship and a Google Women Techmakers scholarship.
+My research focuses on knowledge representations and graph-based machine learning.
+I'm currently supported by an NSF Graduate Research Fellowship and a Google Women Techmakers scholarship.
+</p>
 
-<br/><br/>
-<h2 id="publications">Recent publications <a href="#top">[top]</a></h2>
+<p>
+Outside of work, I love to play and listen to music, stay healthy, and generally chill out!
+</p>
+
+<h2 id="publications">Selected publications <a href="#top">[top]</a></h2>
 Also see <a href="https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>, my <a href="cv.pdf">CV</a>.
 
 {% for publication in site.data.publications %}
 <p class="pub">
-{% if forloop.index <= site.pub-limit %}
-   {{ publication.title }}<br/> <em>{{ publication.authors }}. {{ publication.venue }}{% if publication.date %}-{{ publication.date }}{% endif %}</em>.{% if publication.notes %}<br/> <span class="red">{{ publication.notes }}</span>{% endif %}<br/>{% for link in publication.links %} [<a href="{{ link.pdf }}" target="_blank">PDF</a>{% if link.slides %} | <a href="{{ link.slides }}" target="_blank">slides</a>{% endif %}{% if link.code %} | <a href="{{ link.code }}" target="_blank">code</a>{% endif %}{% if link.data %} | <a href="{{ link.data }}" target="_blank">data</a>{% endif %}{% if link.blog %} | <a href="{{ link.blog }}" target="_blank">blog
-  post</a>{% endif %}]{% endfor %}{% endif %}
+<strong>{{ publication.title }}</strong><br/>{{ publication.authors }}<br/>{{ publication.venue }} {{ publication.date }}{% for link in publication.links %} <a href="{{ link.pdf }}" target="_blank">[PDF]</a>{% if link.slides %}  <a href="{{ link.slides }}" target="_blank">[slides]</a>{% endif %}{% if link.code %} <a href="{{ link.code }}" target="_blank">[code]</a>{% endif %}{% if link.data %} <a href="{{ link.data }}" target="_blank">[data]</a>{% endif %}{% if link.blog %} <a href="{{ link.blog
+  }}" target="_blank">[blog
+  post]</a>{% endif %}{% endfor %}{% if publication.notes %}<br/> <span class="red">{{ publication.notes }}</span>{% endif %}
 </p>
 {% endfor %}
 
-<br/>
 <p>
 <h2 id="misc">Misc <a href="#top">[top]</a></h2>
 <ul>
