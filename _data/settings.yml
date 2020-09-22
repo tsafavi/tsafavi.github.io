@@ -3,6 +3,7 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Home', url: 'index.html'}
+- {name: 'News', url: '#news'}
 - {name: 'Research', url: '#publications'}
 - {name: 'Misc', url: '#misc'}
 - {name: 'CV', url: 'cv.pdf'}
