@@ -15,6 +15,13 @@ I'm currently supported by an NSF Graduate Research Fellowship and a Google Wome
 Outside of work, I love to play and listen to music, stay healthy, and generally chill out!
 </p>
 
+<h2 id="publications">Recent news <a href="#top">[top]</a></h2>
+<ul>
+  {% for news in site.data.news %}
+  <li><strong>{{ news.date }}</strong>: {{ news.description }}</li>
+  {% endfor %}
+</ul>
+
 <h2 id="publications">Selected publications <a href="#top">[top]</a></h2>
 Also see <a href="https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>, my <a href="cv.pdf">CV</a>.
 
