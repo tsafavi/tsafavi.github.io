@@ -10,11 +10,18 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'envelope', link: 'mailto:tsafavi@umich.edu'}
-- {icon: 'graduation-cap', link: 'https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate'}
-- {icon: 'twitter', link: 'http://www.twitter.com/tararootcake'}
-- {icon: 'github', link: 'https://www.github.com/tsafavi'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/tsafavi/'}
+  - {name: 'Email', icon: 'envelope', link: 'mailto:tsafavi@umich.edu'}
+  - {name: 'Google Scholar', icon: 'graduation-cap', link: 'https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate'}
+  - {name: 'Twitter', icon: 'twitter', link: 'http://www.twitter.com/tararootcake'}
+  - {name: 'GitHub', icon: 'github', link: 'https://www.github.com/tsafavi'}
+  - {name: 'LinkedIn', icon: 'linkedin', link: 'http://www.linkedin.com/in/tsafavi/'}
+
+links:
+  email: "mailto:tsafavi@umich.edu"
+  linkedin: "http://www.linkedin.com/in/tsafavi/"
+  scholar: "https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate"
+  twitter: "https://www.twitter.com/tararootcake"
+  github: "https://www.github.com/tsafavi"
 
 # Customize site text
 pagination:

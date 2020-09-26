@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+Hi! 
+I'm Tara, a  PhD candidate at the University of Michigan working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a>.
+My research focuses on knowledge representations from text and graph-based machine learning, and is currently
+supported by an NSF Graduate Research Fellowship and a Google Women Techmakers scholarship.
+
+Outside of work, I like to play and listen to music, stay healthy, and generally chill out.
+
+## News
+
+{% for news in site.data.news %}
+- __{{ news.date }}__: {{ news.description }} {% endfor %}
+
+## Research
+
+Also see <a href="https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>, my <a href="cv.pdf">CV</a>.
+
+{% for publication in site.data.publications %}
+-  __{{ publication.title }}__ <br/> {{ publication.authors }} <br/> {{ publication.venue }} {{ publication.date }}
+{% for link in publication.links %} <a href="{{ link.pdf }}" target="_blank">[PDF]</a>{% if link.slides %}  <a href="{{ link.slides }}" target="_blank">[slides]</a>{% endif %}{% if link.code %} <a href="{{ link.code }}" target="_blank">[GitHub]</a>{% endif %}{% if link.data %} <a href="{{ link.data }}" target="_blank">[GitHub]</a>{% endif %}{% if link.blog %} <a href="{{ link.blog }}" target="_blank">[blog
+  post]</a>{% endif %}{% endfor %}{% if publication.notes %}<br/> <span class="red">{{ publication.notes }}</span>{% endif %} 
+  {% endfor %}
+
+## Misc
+
+  - My <a href="/nsf-grfp.html">advice on applying for the NSF GRFP</a> (updated periodically)
+  - Books I enjoyed reading recently: {% for book in site.data.reading %}
+    - <a href="{{ book.link }}" target="_blank">{{ book.title }}</a> by {{ book.author }}  {% if book.notes %} - {{ book.notes }} {% endif %} {% endfor %}
