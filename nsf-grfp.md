@@ -32,6 +32,7 @@ If you  plan to apply for the fellowship,
 When I was applying I didn't read the Program Solicitation until pretty late, upon which I realized the formatting of my essays was wrong.
 (Brief panic ensued).
 Please read it!
+ I believe they can desk-reject your application if you don't follow the formatting guidelines.
 
 Most of your application will already be determined by what you've done up to this point
 (your publications, research experience, letters of recommendation).
@@ -84,11 +85,6 @@ My proposal's Broader Impacts section had a few sentences about both societal im
 
 ## <a name="my-application">Concrete examples from my application</a> [<a href="#top">top</a>]
 
-
-I wrote my essays in LaTeX. 
-That said, 
-I believe last year's Program Solicitation said that either 12-point Times New Roman or Computer Modern (the default LaTeX font) could be used, but it looks like this year's Solicitation only mentions 12-point Times New Roman.
-Make sure to follow the margin, font, and other formatting requirements, as I believe they can desk-reject your application if you don't follow the guidelines.
 
 - __Personal, Relevant Background and Future Goals Statement__ [<a href="/assets/pdf/nsf-personal.pdf" target="_blank">link to the PDF of my personal statement</a>]. The sections in this essay followed the structure:
   - Personal background of how I got into CS research and major highlights, like awards and publications (~half a page)
