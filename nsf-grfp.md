@@ -27,7 +27,7 @@ I try to update this page with each application cycle,  since it has been useful
 
 
 If you  plan to apply for the fellowship, 
- __read the official NSF GRFP <a href="https://www.nsf.gov/pubs/2019/nsf19590/nsf19590.htm" target="_blank">Program Solicitation</a>__ right away.
+ __read the official NSF GRFP <a href="https://www.nsf.gov/pubs/2020/nsf20587/nsf20587.pdf" target="_blank">Program Solicitation</a>__ right away.
  The Program Solicitation is a self-contained document with all the essential information: eligibility, deadlines, how to apply, review criteria, etc.
 When I was applying I didn't read the Program Solicitation until pretty late, upon which I realized the formatting of my essays was wrong.
 (Brief panic ensued).
@@ -86,7 +86,7 @@ My proposal's Broader Impacts section had a few sentences about both societal im
 
 
 I wrote my essays in LaTeX. 
-That said,
+That said, 
 I believe last year's Program Solicitation said that either 12-point Times New Roman or Computer Modern (the default LaTeX font) could be used, but it looks like this year's Solicitation only mentions 12-point Times New Roman.
 Make sure to follow the margin, font, and other formatting requirements, as I believe they can desk-reject your application if you don't follow the guidelines.
 

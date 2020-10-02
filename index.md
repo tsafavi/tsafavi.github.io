@@ -9,19 +9,20 @@ supported by an NSF Graduate Research Fellowship and a Google Women Techmakers s
 
 Outside of work, I like to play and listen to music, stay healthy, and generally chill out.
 
-## News
+## Recent news
 
 {% for news in site.data.news %}
 - __{{ news.date }}__: {{ news.description }} {% endfor %}
 
-## Research
+## Selected publications
 
 Also see <a href="https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>, my <a href="cv.pdf">CV</a>.
 
 {% for publication in site.data.publications %}
 -  __{{ publication.title }}__ <br/> {{ publication.authors }} <br/> {{ publication.venue }} {{ publication.date }}
 {% for link in publication.links %} <a href="{{ link.pdf }}" target="_blank">[PDF]</a>{% if link.slides %}  <a href="{{ link.slides }}" target="_blank">[slides]</a>{% endif %}{% if link.code %} <a href="{{ link.code }}" target="_blank">[GitHub]</a>{% endif %}{% if link.data %} <a href="{{ link.data }}" target="_blank">[GitHub]</a>{% endif %}{% if link.blog %} <a href="{{ link.blog }}" target="_blank">[blog
-  post]</a>{% endif %}{% endfor %}{% if publication.notes %}<br/> <span class="red">{{ publication.notes }}</span>{% endif %} 
+  post]</a>{% endif %}{% endfor %}{% if publication.highlight %}<br/> <span class="red">{{ publication.highlight }}</span>{% endif %}{% if publication.notes %}<br/> _{{ publication.notes }}_{% endif %} 
+
   {% endfor %}
 
 ## Misc
