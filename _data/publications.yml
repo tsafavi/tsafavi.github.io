@@ -1,3 +1,5 @@
+
+
 - title: "CoDEx: A Comprehensive Knowledge Graph Completion Benchmark"
   authors: "<em>Tara Safavi</em>, Danai Koutra"
   venue: "EMNLP"
@@ -26,7 +28,7 @@
   authors: "Mark Heimann, <em>Tara Safavi</em>, Danai Koutra"
   venue: "ICDM"
   date: "2019"
-  notes: "Best student paper award"
+  highlight: "Best student paper award"
   links:
     - pdf: "https://gemslab.github.io/papers/heimann-2019-RGM.pdf"
 
