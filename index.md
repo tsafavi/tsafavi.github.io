@@ -20,7 +20,7 @@ Also see <a href="https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&v
 
 {% for publication in site.data.publications %}
 -  __{{ publication.title }}__ <br/> {{ publication.authors }} <br/> {{ publication.venue }} {{ publication.date }}
-{% for link in publication.links %} <a href="{{ link.pdf }}" target="_blank">[PDF]</a>{% if link.slides %}  <a href="{{ link.slides }}" target="_blank">[slides]</a>{% endif %}{% if link.code %} <a href="{{ link.code }}" target="_blank">[GitHub]</a>{% endif %}{% if link.data %} <a href="{{ link.data }}" target="_blank">[GitHub]</a>{% endif %}{% if link.blog %} <a href="{{ link.blog }}" target="_blank">[blog
+{% for link in publication.links %} {% if link.pdf %} <a href="{{ link.pdf }}" target="_blank">[PDF]</a>{% endif %}{% if link.slides %}  <a href="{{ link.slides }}" target="_blank">[slides]</a>{% endif %}{% if link.code %} <a href="{{ link.code }}" target="_blank">[GitHub]</a>{% endif %}{% if link.data %} <a href="{{ link.data }}" target="_blank">[GitHub]</a>{% endif %}{% if link.blog %} <a href="{{ link.blog }}" target="_blank">[blog
   post]</a>{% endif %}{% endfor %}{% if publication.highlight %}<br/> <span class="red">{{ publication.highlight }}</span>{% endif %}{% if publication.notes %}<br/> _{{ publication.notes }}_{% endif %} 
 
   {% endfor %}

@@ -1,4 +1,10 @@
 
+- title: "Generating Negative Commonsense Knowledge"
+  authors: "<em>Tara Safavi</em>, Danai Koutra"
+  venue: "Preprint - NeurIPS KR2ML"
+  date: 2020
+  links:
+    - pdf:
 
 - title: "CoDEx: A Comprehensive Knowledge Graph Completion Benchmark"
   authors: "<em>Tara Safavi</em>, Danai Koutra"
