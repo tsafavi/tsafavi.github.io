@@ -4,7 +4,7 @@
   venue: "Preprint - NeurIPS KR2ML"
   date: 2020
   links:
-    - pdf:
+    - pdf: "/assets/pdf/20_KR2ML.pdf"
 
 - title: "CoDEx: A Comprehensive Knowledge Graph Completion Benchmark"
   authors: "<em>Tara Safavi</em>, Danai Koutra"
