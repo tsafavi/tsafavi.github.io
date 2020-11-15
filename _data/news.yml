@@ -1,5 +1,5 @@
 - date: "Sep 2020"
-  description: "We released the <a href=\"https://github.com/tsafavi/codex\" target=\"_blank\">CoDEx knowledge graph completion benchmark</a>! CoDEx, which is extracted from Wikidata and Wikipedia, covers a wide variety of relational and textual data, both positive and negative. Check out <a href=\"https://arxiv.org/pdf/2009.07810.pdf\" target=\"_blank\">our upcoming EMNLP paper</a> and the <a href=\"https://github.com/tsafavi/codex\" target=\"_blank\">official GitHub repo</a> for more."
+  description: "We released the <a href=\"https://github.com/tsafavi/codex\" target=\"_blank\">CoDEx knowledge graph completion benchmark</a>! CoDEx, which is extracted from Wikidata and Wikipedia, covers a wide variety of relational and textual data, both positive and negative. Check out <a href=\"https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf\" target=\"_blank\">our upcoming EMNLP paper</a> and the <a href=\"https://github.com/tsafavi/codex\" target=\"_blank\">official GitHub repo</a> for more."
 - date: "Sep 2020"
   description: "Two papers accepted to EMNLP. See you there (virtually)!"
 - date: "Feb 2020"
