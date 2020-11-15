@@ -11,7 +11,7 @@
   venue: "EMNLP"
   date: 2020
   links:
-    - pdf: "https://arxiv.org/pdf/2009.07810.pdf"
+    - pdf: "https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf"
       data: "https://github.com/tsafavi/codex"
 
 - title: "Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction"
@@ -19,7 +19,7 @@
   venue: "EMNLP"
   date: 2020
   links:
-    - pdf: "https://arxiv.org/pdf/2004.01168.pdf"
+    - pdf: "https://www.aclweb.org/anthology/2020.emnlp-main.667.pdf"
 
 - title: "Toward Activity Discovery in the Personal Web"
   authors: "<em>Tara Safavi</em>, Adam Fourney, Robert Sim, Martin Juraszek, Shane Williams, Ned Friend, Danai Koutra, Paul N. Bennett"
