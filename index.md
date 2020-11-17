@@ -4,7 +4,7 @@ layout: default
 
 Hi! 
 I'm Tara, a PhD candidate at the University of Michigan working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a>.
-My research focuses on knowledge representations, graph-based machine learning, and evaluation of machine learning methods and benchmarks. 
+My research focuses on knowledge representations, relational reasoning, and graph-based machine learning.
 I'm currently supported by an NSF Graduate Research Fellowship and a Google Women Techmakers scholarship.
 
 Outside of work, I like to play and listen to music, stay healthy, and generally chill out.
