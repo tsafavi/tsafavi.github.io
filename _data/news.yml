@@ -1,4 +1,4 @@
-- date: "Nov 2020"
+- date: "Dec 2020"
   description: "Looking forward to sharing our <a href=\"https://arxiv.org/pdf/2011.07497.pdf\" target=\"_blank\">ongoing work on generating negative relational commonsense</a> at the NeurIPS KR2ML workshop."
 - date: "Sep 2020"
   description: "We released the <a href=\"https://github.com/tsafavi/codex\" target=\"_blank\">CoDEx knowledge graph completion benchmark</a>! CoDEx, which is extracted from Wikidata and Wikipedia, covers a wide variety of relational and textual data, both positive and negative. Check out <a href=\"https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf\" target=\"_blank\">our upcoming EMNLP paper</a> and the <a href=\"https://github.com/tsafavi/codex\" target=\"_blank\">official GitHub repo</a> for more."
