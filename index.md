@@ -11,7 +11,7 @@ Outside of work, I like to play and listen to music, stay healthy, and generally
 
 ## Recent news
 
-{% for news in site.data.news %}
+{% for news in site.data.news limit:7 %}
 - __{{ news.date }}__: {{ news.description }} {% endfor %}
 
 ## Selected publications
