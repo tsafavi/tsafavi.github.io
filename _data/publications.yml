@@ -1,15 +1,16 @@
-- title: "Relational world knowledge representation in contextual language models: A review"
+- title: "Relational World Knowledge Representation in Contextual Language Models: A Review"
   authors: "<em>Tara Safavi</em>, Danai Koutra"
-  venue: "Preprint - ongoing work"
+  venue: "EMNLP"
+  date: "2021"
   links:
-    - pdf: "https://arxiv.org/pdf/2104.05837.pdf"
+    - 
 
-- title: "Generating Negative Commonsense Knowledge"
-  authors: "<em>Tara Safavi</em>, Danai Koutra"
-  venue: "Preprint - NeurIPS KR2ML"
-  date: 2020
+- title: "NegatER: Unsupervised Discovery of Negatives in Commonsense Knowledge Bases"
+  authors: "<em>Tara Safavi</em>, Jing Zhu, Danai Koutra"
+  venue: "EMNLP"
+  date: "2021"
   links:
-    - pdf: "https://arxiv.org/pdf/2011.07497.pdf"
+    - 
 
 - title: "CoDEx: A Comprehensive Knowledge Graph Completion Benchmark"
   authors: "<em>Tara Safavi</em>, Danai Koutra"
