@@ -3,14 +3,14 @@
   venue: "EMNLP"
   date: "2021"
   links:
-    - 
+    - pdf: "https://arxiv.org/pdf/2104.05837.pdf"
 
 - title: "NegatER: Unsupervised Discovery of Negatives in Commonsense Knowledge Bases"
   authors: "<em>Tara Safavi</em>, Jing Zhu, Danai Koutra"
   venue: "EMNLP"
   date: "2021"
   links:
-    - 
+    - pdf: "https://arxiv.org/pdf/2011.07497.pdf"
 
 - title: "CoDEx: A Comprehensive Knowledge Graph Completion Benchmark"
   authors: "<em>Tara Safavi</em>, Danai Koutra"
