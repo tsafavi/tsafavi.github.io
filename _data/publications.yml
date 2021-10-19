@@ -28,7 +28,7 @@
     - pdf: "https://www.aclweb.org/anthology/2020.emnlp-main.667.pdf"
 
 - title: "Toward Activity Discovery in the Personal Web"
-  authors: "<em>Tara Safavi</em>, Adam Fourney, Robert Sim, Martin Juraszek, Shane Williams, Ned Friend, Danai Koutra, Paul N. Bennett"
+  authors: "<em>Tara Safavi</em>, Adam Fourney, Robert Sim, Marcin Juraszek, Shane Williams, Ned Friend, Danai Koutra, Paul N. Bennett"
   venue: "WSDM"
   date: "2020"
   links:
