@@ -4,11 +4,11 @@ layout: default
 
 Hi! 
 I'm Tara, a final-year PhD candidate at the University of Michigan working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a>.
-My research focuses on relational learning and reasoning, knowledge representations, and graph-based machine learning.
+My research focuses on multimodal language + graph learning for problems in machine knowledge representation.
 I'm currently supported by an NSF Graduate Research Fellowship and a Google Women Techmakers scholarship.
 
 
-<span class="red">I'm on the job market for NLP + ML research scientist and research engineer positions starting 2022!!</span> Please find my <a href="cv.pdf" target="_blank">full-length academic CV</a> and <a href="resume.pdf" target="_blank">shorter technical resume</a>, and feel free to reach out with opportunities! 
+<span class="red">⭐ I'm on the job market for industry NLP + ML research scientist and research engineer positions starting 2022!! ⭐</span> Please find my <a href="cv.pdf" target="_blank">full-length academic CV</a> and <a href="resume.pdf" target="_blank">shorter technical resume</a>, and reach out if you think I'd be a good fit! 
 
 ## Recent news
 
