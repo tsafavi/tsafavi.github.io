@@ -4,7 +4,7 @@ layout: default
 
 Hi! 
 I'm Tara, a final-year PhD candidate at the University of Michigan working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a>.
-My research focuses on multimodal language + graph learning for problems in machine knowledge representation.
+My research focuses on multimodal graph + text learning and knowledge representation. 
 I'm currently supported by an NSF Graduate Research Fellowship and a Google Women Techmakers scholarship.
 
 
