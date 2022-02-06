@@ -8,7 +8,7 @@ My research focuses on machine learning over graphs + text and relational knowle
 I'm currently supported by an NSF Graduate Research Fellowship and a Google Women Techmakers scholarship.
 
 
-<span class="red">⭐ I'm on the job market for industry NLP + ML research scientist and research engineer positions starting 2022!! ⭐</span> Please find my <a href="cv.pdf" target="_blank">full-length academic CV</a> and <a href="resume.pdf" target="_blank">shorter technical resume</a>, and reach out if you think I'd be a good fit! 
+<span class="red">⭐ I'm on the job market for industry ML research scientist and research engineer positions starting 2022!! ⭐</span> Please find my <a href="cv.pdf" target="_blank">full-length academic CV</a> and <a href="resume.pdf" target="_blank">shorter technical resume</a>, and reach out if you think I'd be a good fit! 
 
 ## Recent news
 
