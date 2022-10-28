@@ -3,9 +3,9 @@ layout: default
 ---
 
 Hi! 
-I'm Tara, a Senior Researcher at Microsoft Research Redmond working on emerging applications and capabilities of large language models for information retrieval. I graduated from the University of Michigan in May 2022 with a PhD in computer science working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a>. My dissertation focused on combining structure and text for advanced graph learning. 
+I'm Tara, a Senior Researcher at Microsoft Research Redmond working on emerging applications and capabilities of large language models for information retrieval and recommendation. I graduated from the University of Michigan in May 2022 with a PhD in computer science working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a>. My dissertation focused on combining structure and text for advanced graph learning. 
 
-Contact: tarasafavi \[at\] microsoft.com
+__Contact__: tarasafavi \[at\] microsoft.com
 
 ## Recent news
 
