@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Senior Researcher at Microsoft Research Redmond working on emerging applications and capabilities of large language models for information retrieval and recommendation. I graduated from the University of Michigan in May 2022 with a PhD in computer science working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a>. My dissertation focused on combining structure and text for advanced graph learning. 
+I am a Senior Researcher at Microsoft Research Redmond working toward universal information retrieval and recommender systems with large language models. I graduated from the University of Michigan in May 2022 with a PhD in computer science working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a>. My dissertation focused on combining structure and text for advanced graph learning. 
 
 __Contact__: tarasafavi \[at\] microsoft.com
 
