@@ -15,4 +15,4 @@ __Contact__: tarasafavi \[at\] microsoft.com
 
   - My <a href="/nsf-grfp.html">advice on applying for the NSF GRFP</a> (updated periodically)
   - All-time favorite books which I recommend to _everybody_ (updated periodically) {% for book in site.data.reading %}
-{{ book.title }} by {{ book.author }} {% if book.notes %} - {{ book.notes }} {% endif %} {% endfor %}
+    - <a href="{{ book.link }}" target="_blank">{{ book.title }}</a> by {{ book.author }}  {% if book.notes %} - <em>{{ book.notes }}</em> {% endif %} {% endfor %}
