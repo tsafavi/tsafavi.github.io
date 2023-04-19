@@ -6,8 +6,6 @@ I am a Senior Researcher at Microsoft Research Redmond working toward universal 
 
 See <a href="https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> for an up-to-date publications list.
 
-__At MSR we are recruiting in-person interns for summer 2023__ in deep learning, NLP, graph learning, information retrieval, and reinforcement learning. If you are interested, please <a href="https://careers.microsoft.com/us/en/job/1488690/Research-Intern-Productivity-and-Intelligence" target="_blank">apply online here</a>. 
-
 __Contact__: tarasafavi \[at\] microsoft.com
 
 ## Recent news
