@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a deep learning engineer at NVIDIA, focusing on frontier model co-design for efficient and agentic inference. Previously, I was at Microsoft Research. I graduated from the University of Michigan in May 2022 with a PhD in computer science working with <a href="http://danaikoutra.com" target="_blank">Danai Koutra</a> on text-augmented graph learning. 
+I am a deep learning engineer at NVIDIA, focusing on frontier model co-design for efficient and agentic inference. Previously, I was at Microsoft Research. I graduated from the University of Michigan in May 2022 with a PhD in computer science working on graph + text learning with Transformers.
 
 See <a href="https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> for an up-to-date publications list.
 
