@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a deep learning engineer at NVIDIA, working on frontier model co-design for efficient and agentic inference. Previously, I was an applied researcher at Microsoft Research + M365 Copilot focusing on retrieval, knowledge, and LLM-as-a-judge. I graduated from the University of Michigan in May 2022 with a PhD in machine learning, focusing on graphs, NLP, and Transformers. 
+I am a deep learning engineer at NVIDIA, working on frontier model co-design for efficient and agentic inference. Previously, I was an applied researcher at Microsoft Research + M365 Copilot. I graduated from the University of Michigan in May 2022 with a PhD in machine learning.
 
 See <a href="https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> for an up-to-date publications list.
 
