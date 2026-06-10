@@ -6,7 +6,7 @@ I am a deep learning engineer at NVIDIA, working on frontier model co-design for
 
 See <a href="https://scholar.google.com/citations?hl=en&user=bIWFjekAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a> for an up-to-date publications list.
 
-__Contact__: tarasafavi \[at\] microsoft.com
+__Contact__: tsafavi \[at\] nvidia.com
 
 ## Recent news
 
